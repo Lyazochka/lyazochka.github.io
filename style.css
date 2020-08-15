@@ -1,17 +1,63 @@
 ﻿body {
-font-family: sans-serif;
-line-height: 1.5;
+  font-size: 18px;
+  line-height: 1.5;
+  color: #333;
 
-background-color: pink;
-color: green;
+  background-color:yellow;
 
-width: 980px;
-margin: 0 auto;
+  /* BEGIN (write your solution here) */
+
+  
+  /* END */
+
 }
 
 h1 {
-text-align: center;
-font-size: 36px;
-margin-bottom: 0;
-color: red;
+    margin-top: 50px;
+    margin-bottom: 10px;
+    font-size: 60px;
+    text-align: center;
+    
+  /* BEGIN (write your solution here) */
+
+  
+  /* END */
+
+}
+
+h2 {
+    margin-top: 0;
+    padding-bottom: 30px;
+    font-size: 25px;
+    text-align: center;
+
+  /* BEGIN (write your solution here) */
+
+  
+  /* END */
+
+}
+section {
+    margin: 50px 0 50px 0;
+    padding: 0 50px 0 50px;
+
+  /* BEGIN (write your solution here) */
+
+  
+  /* END */
+  
+}
+section>h2 {
+    padding: 0;
+    text-align: left;
+    border-style: none;
+    
+}
+ul {
+    margin-bottom: 10px;
+
+}   
+main {
+  width: 900px;
+  margin: auto;
 }
